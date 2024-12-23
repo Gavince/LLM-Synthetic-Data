@@ -69,10 +69,10 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ### 4.1. Pre-training
 
-- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265) Tecent Hunyuan Team.
-- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905) Microsoft Research.
-- [MAmmoTH2: Scaling Instructions from the Web.](https://arxiv.org/pdf/2405.03548) *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen.* Neurips 2024.
+- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905) *Microsoft Research.* Arxiv 2024.
 - [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595) *Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*, Arxiv 2024
+- [MAmmoTH2: Scaling Instructions from the Web.](https://arxiv.org/pdf/2405.03548) *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen.* Neurips 2024.
+- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265) *Tecent Hunyuan Team.* Arxiv 2024.
 
 ### 4.2. Instruction Tuning
 
