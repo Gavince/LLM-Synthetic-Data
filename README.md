@@ -1,4 +1,4 @@
-# Real-time, Fine-grained categorized LLM-Synthetic-Data
+# Real-time, Fine-grained LLM-Synthetic-Data
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 </div>
 
-This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), **real-time, fine-grained categorized repository** on LLM Synthetic Data. 
+This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), **real-time, fine-grained repository** on LLM Synthetic Data. 
 
 If you find this useful, feel free to follow us and star both repos. 
 
