@@ -1,5 +1,16 @@
 # Synthetic Data of LLMs, by LLMs, for LLMs (real-time updated, fine-grained categorized)
 
+<div align="center">
+
+[![LICENSE](https://img.shields.io/github/license/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/blob/main/LICENSE)
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![commit](https://img.shields.io/github/last-commit/wasiahmad/Awesome-LLM-Synthetic-Data-Generation?color=blue)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/commits/main)
+[![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation/pulls)
+[![GitHub Repo stars](https://img.shields.io/github/stars/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)
+<!-- ![license](https://img.shields.io/bower/l/bootstrap?style=plastic) -->
+
+</div>
+
 This repo was followed by the GitHub project: https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data, which includes papers, websites, blogs, and tools about Synthetic Data of LLMs, by LLMs, for LLMs.
 Our goal is to provide a **real-time updated, fine-grained categorized** repository **on LLM-Synthetic-Data**.
 Please feel free to follow us and kindly give a star to both our and original project as well.
