@@ -8,10 +8,12 @@
 
 </div>
 
-This repo was followed by the GitHub project: https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data, which includes papers, websites, blogs, and tools about Synthetic Data of LLMs, by LLMs, for LLMs.
-Our goal is to provide a **real-time updated, fine-grained categorized** repository **on LLM-Synthetic-Data**.
-Please feel free to follow us and kindly give a star to both our and original project as well.
+This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), **real-time, fine-grained categorized repository** on LLM Synthetic Data. 
+
+If you find this useful, feel free to follow us and star both repos. 
+
 Thanks to all the great contributors on GitHub! 🔥⚡🔥
+
 
 ## Contents
 
