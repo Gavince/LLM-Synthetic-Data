@@ -1,4 +1,4 @@
-# Synthetic Data of LLMs, by LLMs, for LLMs (real-time updated, fine-grained categorized)
+# Real-time, Fine-grained categorized LLM-Synthetic-Data
 
 <div align="center">
 
