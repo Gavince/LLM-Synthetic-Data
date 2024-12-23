@@ -8,7 +8,7 @@
 
 </div>
 
-This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), **real-time, fine-grained repository** on LLM Synthetic Data. 
+This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), which focused on **real-time, fine-grained LLM-Synthetic-Data **. 
 
 If you find this useful, feel free to follow us and star both repos. 
 
