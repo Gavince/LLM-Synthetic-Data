@@ -70,10 +70,10 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ### 4.1. Pre-training
 
-- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265). Tecent Hunyuan Team.
-- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905). Microsoft Research.
+- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265) Tecent Hunyuan Team.
+- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905) Microsoft Research.
 - [MAmmoTH2: Scaling Instructions from the Web.](https://arxiv.org/pdf/2405.03548) *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen.* Neurips 2024.
-- [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595): Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Arxiv 2024
+- [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595) *Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*, Arxiv 2024
 
 ### 4.2. Instruction Tuning
 
@@ -82,23 +82,23 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [ZeroGen: Efficient Zero-shot Learning via Dataset Generation](https://arxiv.org/abs/2202.07922) *Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu, Lingpeng Kong.* EMNLP 2022.
 - [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/abs/2110.07178) *Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi.* NAACL 2022.
 - [Self-instruct: Aligning language models with self-generated instructions.](https://arxiv.org/abs/2212.10560) *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* ACL 2023.     
-- [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://arxiv.org/abs/2306.04140). *John Joon Young Chung, Ece Kamar, Saleema Amershi.* ACL 2023.
+- [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://arxiv.org/abs/2306.04140) *John Joon Young Chung, Ece Kamar, Saleema Amershi.* ACL 2023.
 - [Large Language Models Can Self-Improve](https://aclanthology.org/2023.emnlp-main.67/) *Jiaxin Huang, Shixiang Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* EMNLP 2023.
-- [Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models](https://arxiv.org/abs/2310.13671), *Ruida Wang, Wangchunshu Zhou, Mrinmaya Sachan,* EMNLP finding2023
+- [Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models](https://arxiv.org/abs/2310.13671) *Ruida Wang, Wangchunshu Zhou, Mrinmaya Sachan,* EMNLP finding2023
 - [Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://aclanthology.org/2023.emnlp-main.647.pdf), *Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin.* EMNLP finding2023.
-- [Making Large Language Models Better Data Creators](https://arxiv.org/pdf/2310.20111). *Dong-Ho Lee, Jay Pujara, Mohit Sewak, Ryen W. White, Sujay Kumar Jauhar.* EMNLP 2023.    
-- [Generating Faithful Synthetic Data with Large Language Models: A Case Study in Computational Social Science](https://arxiv.org/abs/2305.15041). *Veniamin Veselovsky, Manoel Horta Ribeiro, Akhil Arora, Martin Josifoski, Ashton Anderson, Robert West,* Arxiv 2023.
+- [Making Large Language Models Better Data Creators](https://arxiv.org/pdf/2310.20111) *Dong-Ho Lee, Jay Pujara, Mohit Sewak, Ryen W. White, Sujay Kumar Jauhar.* EMNLP 2023.    
+- [Generating Faithful Synthetic Data with Large Language Models: A Case Study in Computational Social Science](https://arxiv.org/abs/2305.15041) *Veniamin Veselovsky, Manoel Horta Ribeiro, Akhil Arora, Martin Josifoski, Ashton Anderson, Robert West,* Arxiv 2023.
 - [Self-Rewarding Language Models.](https://arxiv.org/abs/2401.10020) *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston.* ICML 2024.
 - [Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* Arxiv 2024.    
 - [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) *Nihal V. Nayak, Yiyang Nan, Avi Trost, Stephen H. Bach.* ACL Findings 2024.
-- [Rephrasing theWeb A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380). *Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly.* ACL 2024.
+- [Rephrasing theWeb A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380) *Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly.* ACL 2024.
 - [Automatic Instruction Evolving for Large Language Models.](https://arxiv.org/abs/2406.00770) *Weihao Zeng, Can Xu, Yingxiu Zhao, Jian-Guang Lou, Weizhu Chen.* EMNLP 2024.
 - [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/abs/2404.10642) *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* Neurips 2024.    
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions.](https://arxiv.org/abs/2304.12244) *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* ICLR 2024.
 - [CodecLM: Aligning Language Models with Tailored Synthetic Data.](https://arxiv.org/abs/2404.05875) *Zifeng Wang, Chun-Liang Li, Vincent Perot, Long T. Le, Jin Miao, Zizhao Zhang, Chen-Yu Lee, Tomas Pfister.* NAACL Findings 2024.    
 - [TarGEN: Targeted Data Generation with Large Language Models](https://openreview.net/pdf?id=gpgMRWgv9Q) *Himanshu Gupta, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra.* COLM 2024.    
-- [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models.](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Submit to ICLR 2025.
-- [Scaling Instruction-tuned LLMs to Million-token Contexts via Hierarchical Synthetic Data Generation.](https://openreview.net/forum?id=BkwCrIsTbR) Submit to ICLR 2025.
+- [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Submit to ICLR 2025.
+- [Scaling Instruction-tuned LLMs to Million-token Contexts via Hierarchical Synthetic Data Generation](https://openreview.net/forum?id=BkwCrIsTbR) Submit to ICLR 2025.
 - [Forewarned is Forearmed: Harnessing LLMs for Data Synthesis via Failure-induced Exploration.](https://openreview.net/forum?id=yitH9xAHQs) Submit to ICLR 2025.
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin.* Submit to ICLR 2025.
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli.* Submit to ICLR 2025.    
@@ -106,18 +106,18 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ### 4.3. Model Collapse
 
-- [AI models collapse when trained on recursively generated data.](https://www.nature.com/articles/s41586-024-07566-y) *Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson & Yarin Gal,* Nature 2024.
+- [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y) *Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson & Yarin Gal,* Nature 2024.
 - [ToEdit: How to Synthesize Text Data to Avoid Model Collapse?](https://openreview.net/forum?id=mVCcWCjeEz) Submit to ICLR 2025.
-- [Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement](https://arxiv.org/pdf/2406.07515). *Yunzhen Feqng, Elvis Dohmatob, Pu Yang, Francois Charton, Julia Kempe.* Submit to ICLR 2025.
+- [Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement](https://arxiv.org/pdf/2406.07515) *Yunzhen Feqng, Elvis Dohmatob, Pu Yang, Francois Charton, Julia Kempe.* Submit to ICLR 2025.
     
 
 ### 4.4. LLM Benchmarking
 
-- [DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu). Submit to ICLR 2025.
+- [DataGen: Unified Synthetic Dataset Generation via Large Language Models](https://openreview.net/forum?id=F5R0lG74Tu) Submit to ICLR 2025.
 
 ### 4.5. Evaluation
 
-- [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](https://openreview.net/forum?id=oqsQbn4XfT). *Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin.* Submit to ICLR 2025.
+- [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](https://openreview.net/forum?id=oqsQbn4XfT) *Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin.* Submit to ICLR 2025.
 
 ## 5. Application Areas:
 
@@ -190,10 +190,10 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.* NeurIPS 2023.
 - [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) *Jinze Bai, Shuai Bai, Shusheng Yang, Shijie Wang, Sinan Tan, Peng Wang, Junyang Lin, Chang Zhou, Jingren Zhou.* Arxiv 2023.
-- [G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](https://arxiv.org/abs/2312.11370). *Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.* Sumit to ICLR 2025.
-- [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592). *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny.* ICLR 2024.
-- [Enhancing Large Vision Language Models with Self-Training on Image Comprehension](https://arxiv.org/abs/2405.19716). *Yihe Deng, Pan Lu, Fan Yin, Ziniu Hu, Sheng Shen, James Zou, Kai-Wei Chang, Wei Wang.* NeurIPS 2024.
-- [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326). *Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li. S*ubmit to TMLR.
+- [G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](https://arxiv.org/abs/2312.11370) *Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.* Sumit to ICLR 2025.
+- [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny.* ICLR 2024.
+- [Enhancing Large Vision Language Models with Self-Training on Image Comprehension](https://arxiv.org/abs/2405.19716) *Yihe Deng, Pan Lu, Fan Yin, Ziniu Hu, Sheng Shen, James Zou, Kai-Wei Chang, Wei Wang.* NeurIPS 2024.
+- [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326) *Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li. S*ubmit to TMLR.
 
 ### 5.10. Factuality
 
