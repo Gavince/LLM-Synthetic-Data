@@ -26,6 +26,7 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
   * [4.3. Model Collapse](#43-Model-Collapse)
   * [4.4. LLM Benchmarking](#44-LLM-Benchmarking)
   * [4.5. Evaluation](#45-Evaluation)
+  * [4.6. Distillation](#46-Distillation)
 * [5. Application Areas](#5-Application-Areas)
   * [5.1 Mathematical Reasoning](#51-Mathematical-Reasoning)
   * [5.2 Code Generation](#52-Code-Generation)
@@ -83,8 +84,6 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [Self-instruct: Aligning language models with self-generated instructions.](https://arxiv.org/abs/2212.10560) *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* ACL 2023.     
 - [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://arxiv.org/abs/2306.04140) *John Joon Young Chung, Ece Kamar, Saleema Amershi.* ACL 2023.
 - [Large Language Models Can Self-Improve](https://aclanthology.org/2023.emnlp-main.67/) *Jiaxin Huang, Shixiang Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* EMNLP 2023.
-- [Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models](https://arxiv.org/abs/2310.13671) *Ruida Wang, Wangchunshu Zhou, Mrinmaya Sachan,* EMNLP finding2023
-- [Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://aclanthology.org/2023.emnlp-main.647.pdf), *Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin.* EMNLP finding2023.
 - [Making Large Language Models Better Data Creators](https://arxiv.org/pdf/2310.20111) *Dong-Ho Lee, Jay Pujara, Mohit Sewak, Ryen W. White, Sujay Kumar Jauhar.* EMNLP 2023.    
 - [Generating Faithful Synthetic Data with Large Language Models: A Case Study in Computational Social Science](https://arxiv.org/abs/2305.15041) *Veniamin Veselovsky, Manoel Horta Ribeiro, Akhil Arora, Martin Josifoski, Ashton Anderson, Robert West,* Arxiv 2023.
 - [Self-Rewarding Language Models.](https://arxiv.org/abs/2401.10020) *Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Xian Li, Sainbayar Sukhbaatar, Jing Xu, Jason Weston.* ICML 2024.
@@ -117,6 +116,12 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 ### 4.5. Evaluation
 
 - [On the Diversity of Synthetic Data and its Impact on Training Large Language Models](https://openreview.net/forum?id=oqsQbn4XfT) *Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin.* Submit to ICLR 2025.
+
+### 4.6. Distillation
+
+- [FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models](https://arxiv.org/abs/2311.15614), *Ruixuan Xiao, Yiwen Dong, Junbo Zhao, Runze Wu, Minmin Lin, Gang Chen, Haobo Wang.* EMNLP 2023.
+- [Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models](https://arxiv.org/abs/2310.13671) *Ruida Wang, Wangchunshu Zhou, Mrinmaya Sachan,* EMNLP finding2023
+- [Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations](https://aclanthology.org/2023.emnlp-main.647.pdf), *Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin.* EMNLP finding2023.
 
 ## 5. Application Areas:
 
