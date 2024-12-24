@@ -50,13 +50,13 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ## **2. Blogs:**
 
-- [Synthetic data: save money, time and carbon with open source.](https://huggingface.co/blog/synthetic-data-save-costs) *Moritz Laurer. Feb 16.*
-- [Synthetic data generation (Part 1).](https://cookbook.openai.com/examples/sdg1)  *Dylan Royan Almeida. Apr 10, 2024*  
-- [Synthetic dataset generation techniques: Self-Instruct.](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien. 2024. May 15, 2024.*
-- [CodecLM: Aligning language models with tailored synthetic data](https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data) *Zifeng Wang and Chen-Yu Lee. May 30, 2024.*
-- [The Rise of Agentic Data Generation.](https://huggingface.co/blog/mlabonne/agentic-datagen) *Maxime Labonne. July 15, 2024.*
-- [LLM-Driven Synthetic Data Generation, Curation & Evaluation.](https://cobusgreyling.medium.com/llm-driven-synthetic-data-generation-curation-evaluation-33731e33b525) *Cobus Greyling. Aug 2, 2024.*
-- [Using LLMs for Synthetic Data Generation: The Definitive Guide](https://www.confident-ai.com/blog/the-definitive-guide-to-synthetic-data-generation-using-llms) *Kritin Vongthongsri. November 8, 2024.*
+- [Synthetic data: save money, time and carbon with open source.](https://huggingface.co/blog/synthetic-data-save-costs) *Moritz Laurer*. Feb 16, 2024.
+- [Synthetic data generation (Part 1).](https://cookbook.openai.com/examples/sdg1)  *Dylan Royan Almeida*. Apr 10, 2024  
+- [Synthetic dataset generation techniques: Self-Instruct.](https://huggingface.co/blog/davanstrien/self-instruct) *Daniel van Strien*. May 15, 2024.
+- [CodecLM: Aligning language models with tailored synthetic data](https://research.google/blog/codeclm-aligning-language-models-with-tailored-synthetic-data) *Zifeng Wang and Chen-Yu Lee.* May 30, 2024.
+- [The Rise of Agentic Data Generation.](https://huggingface.co/blog/mlabonne/agentic-datagen) *Maxime Labonne.* July 15, 2024.
+- [LLM-Driven Synthetic Data Generation, Curation & Evaluation.](https://cobusgreyling.medium.com/llm-driven-synthetic-data-generation-curation-evaluation-33731e33b525) *Cobus Greyling.* Aug 2, 2024.
+- [Using LLMs for Synthetic Data Generation: The Definitive Guide](https://www.confident-ai.com/blog/the-definitive-guide-to-synthetic-data-generation-using-llms) *Kritin Vongthongsri.* November 8, 2024.
 
 ## **3. Surveys:**
 
