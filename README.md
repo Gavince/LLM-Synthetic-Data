@@ -5,6 +5,7 @@
 [![LICENSE](https://img.shields.io/github/license/wasiahmad/Awesome-LLM-Synthetic-Data-Generation)](https://github.com/pengr/LLM-Synthetic-Data/blob/main/LICENSE)
 [![commit](https://img.shields.io/github/last-commit/wasiahmad/Awesome-LLM-Synthetic-Data-Generation?color=blue)](https://github.com/pengr/LLM-Synthetic-Data/commits/main)
 [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/pengr/LLM-Synthetic-Data/pulls)
+[![GitHub Repo stars](https://img.shields.io/github/stars/pengr/LLM-Synthetic-Data)](https://github.com/pengr/LLM-Synthetic-Data)
 
 </div>
 
