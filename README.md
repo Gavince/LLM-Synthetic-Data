@@ -135,6 +135,7 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/abs/2309.12284) *Longhui Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu.* ICLR 2024.
 - [Augmenting Math Word Problems via Iterative Question Composing](https://arxiv.org/abs/2401.09003) *Haoxiong Liu, Yifan Zhang, Yifan Luo, Andrew Chi-Chih Yao.* DPFM@ICLR 2024.
 - [Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning](https://arxiv.org/abs/2403.02333) *Yiming Huang, Xiao Liu, Yeyun Gong, Zhibin Gou, Yelong Shen, Nan Duan, Weizhu Chen.* Arxiv 2024.
+- [Dart-math: Difficulty-aware rejection tuning for mathematical problem-solving](https://arxiv.org/abs/2407.13690) *Yuxuan Tong, Xiwen Zhang, Rui Wang, Ruidong Wu, Junxian He.* NeurIPS 2024.
 
 ### 5.2. Code Generation
 
