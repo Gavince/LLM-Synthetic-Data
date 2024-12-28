@@ -43,6 +43,7 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
   * [5.12 Generative Design](#512-Generative-Design)
   * [5.13 Safety](#513-Safety)
 * [6. Tools](#6-Tools)
+* [7. Datasets](#7-Datasets)
 
 
 ## 1. Githubs:
@@ -100,9 +101,8 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Submit to ICLR 2025.
 - [Forewarned is Forearmed: Harnessing LLMs for Data Synthesis via Failure-induced Exploration.](https://openreview.net/forum?id=yitH9xAHQs) Submit to ICLR 2025.
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin.* Submit to ICLR 2025.
-- [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli.* Submit to ICLR 2025.    
-- [Open Artificial Knowledge](https://huggingface.co/datasets/tabularisai/oak) *Vadim Borisov, Richard Schreiber.* ICML Workshop 2024.
-
+- [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli.* Submit to ICLR 2025.
+- 
 ### 4.3. Model Collapse
 
 - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y) *Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson & Yarin Gal,* Nature 2024.
@@ -228,6 +228,11 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [AgentInstruct: Toward Generative Teaching with Agentic Flows.](https://arxiv.org/abs/2407.03502) *Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, Andres Codas, Yadong Lu, Wei-ge Chen, Olga Vrousgos, Corby Rosset, Fillipe Silva, Hamed Khanpour, Yash Lara, Ahmed Awadallah.* Arxiv 2024.
 - [Distilabel: An AI Feedback (AIF) Framework for Building Datasets with and for LLMs](https://github.com/argilla-io/distilabel). *Álvaro Bartolomé Del Canto, Gabriel Martín Blázquez, Agustín Piqueres Lajarín and Daniel Vila Suero.* GitHub 2024.
 - [Fuxion: Synthetic Data Generation and Normalization Functions using Langchain + LLMs](https://github.com/tobiadefami/fuxion).
+
+### 7. Datasets
+
+- [Open Artificial Knowledge](https://huggingface.co/datasets/tabularisai/oak) *Vadim Borisov, Richard Schreiber.* ICML Workshop 2024.
+
 
 ## Star History
 
