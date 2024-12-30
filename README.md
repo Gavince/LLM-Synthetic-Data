@@ -102,7 +102,7 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [Forewarned is Forearmed: Harnessing LLMs for Data Synthesis via Failure-induced Exploration.](https://openreview.net/forum?id=yitH9xAHQs) Submit to ICLR 2025.
 - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin.* Submit to ICLR 2025.
 - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli.* Submit to ICLR 2025.
-- 
+  
 ### 4.3. Model Collapse
 
 - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y) *Ilia Shumailov, Zakhar Shumaylov, Yiren Zhao, Nicolas Papernot, Ross Anderson & Yarin Gal,* Nature 2024.
