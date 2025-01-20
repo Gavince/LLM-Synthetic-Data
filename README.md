@@ -1,4 +1,4 @@
-# Real-time, Fine-grained LLM-Synthetic-Data
+# Real-time updated, Fine-grained LLM-Synthetic-Data
 
 <div align="center">
 
