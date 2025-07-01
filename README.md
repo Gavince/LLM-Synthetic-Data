@@ -18,37 +18,40 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ## Contents
 
-* [1. Githubs](#1-Githubs)
-* [2. Blogs](#2-Blogs)
-* [3. Surveys](#3-Surveys)
-* [4. Methods](#4-Methods)
-  * [4.1. Pre-training](#41-Pre-training)
-  * [4.2. Instruction Tuning](#42-Instruction-Tuning)
-  * [4.3. Model Collapse](#43-Model-Collapse)
-  * [4.4. LLM Benchmarking](#44-LLM-Benchmarking)
-  * [4.5. Evaluation](#45-Evaluation)
-  * [4.6. Distillation](#46-Distillation)
-* [5. Application Areas](#5-Application-Areas)
-  * [5.1 Mathematical Reasoning](#51-Mathematical-Reasoning)
-  * [5.2 Code Generation](#52-Code-Generation)
-  * [5.3 Text-to-SQL](#53-Text-to-SQL)
-  * [5.4 Alignment](#54-Alignment)
-  * [5.5 Reward Modeling](#55-Reward-Modeling)
-  * [5.6 Long Context](#56-Long-Context)
-  * [5.7 Weak to Strong](#57-Weak-to-Strong)
-  * [5.8 Agent and Tool Use](#58-Agent-and-Tool-Use)
-  * [5.9 Vision and Language](#59-Vision-and-Language)
-  * [5.10 Factuality](#510-Factuality)
-  * [5.11 Federated Learning](#511-Federated-Learning)
-  * [5.12 Generative Design](#512-Generative-Design)
-  * [5.13 Safety](#513-Safety)
-* [6. Tools](#6-Tools)
-* [7. Datasets](#7-Datasets)
+* [1. Githubs](#1-githubs)
+* [2. Blogs](#2-blogs)
+* [3. Surveys](#3-surveys)
+* [4. Methods](#4-methods)
+  * [4.1. Pre-training](#41-pre-training)
+  * [4.2. Continue Pre-training](#42-continue-pre-training)
+  * [4.3. Instruction Tuning](#43-instruction-tuning)
+  * [4.4. Alignment](#44-alignment)
+  * [4.5. Model Collapse](#45-model-collapse)
+  * [4.6. LLM Benchmarking](#46-llm-benchmarking)
+  * [4.7. Evaluation](#47-evaluation)
+  * [4.8. Distillation](#48-distillation)
+* [5. Application Areas](#5-application-areas)
+  * [5.1. Mathematical Reasoning](#51-mathematical-reasoning)
+  * [5.2. Code Generation](#52-code-generation)
+  * [5.3. Text-to-SQL](#53-text-to-sql)
+  * [5.4. Reward Modeling](#54-reward-modeling)
+  * [5.5. Long Context](#55-long-context)
+  * [5.6. Weak-to-Strong](#56-weak-to-strong)
+  * [5.7. Agent and Tool Use](#57-agent-and-tool-use)
+  * [5.8. Vision and Language](#58-vision-and-language)
+  * [5.9. Factuality](#59-factuality)
+  * [5.10. Federated Learning](#510-federated-learning)
+  * [5.11. Generative Design](#511-generative-design)
+  * [5.12. Safety](#512-safety)
+  * [5.13. Synthetis textbooks](#513-synthetis-textbooks)
+  * [5.14. Reasoning](#514-reasoning)
+* [6. Tools](#6-tools)
+* [7. Datasets](#7-datasets)
 
 
 ## 1. Githubs:
 
-- [https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data).
+- [https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data).🔥
 
 ## **2. Blogs:**
 
@@ -72,13 +75,13 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 ### 4.1. Pre-training
 
-- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905) *Microsoft Research.* Arxiv 2024.
-- [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595) *Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*, Arxiv 2024
-- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265) *Tecent Hunyuan Team.* Arxiv 2024.
+- [Phi-4 Technical Report](https://arxiv.org/pdf/2412.08905) *Microsoft Research.* Arxiv 2024.🔥
+- [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595) *Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*, Arxiv 2024🔥
+- [Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent](https://arxiv.org/pdf/2411.02265) *Tecent Hunyuan Team.* Arxiv 2024.🔥
 
 ### 4.2. Continue Pre-training
 
-- [MAmmoTH2: Scaling Instructions from the Web.](https://arxiv.org/pdf/2405.03548) *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen.* Neurips 2024.
+- [MAmmoTH2: Scaling Instructions from the Web.](https://arxiv.org/pdf/2405.03548) *Xiang Yue, Tuney Zheng, Ge Zhang, Wenhu Chen.* Neurips 2024.🔥
 
 ### 4.3. Instruction Tuning
 
@@ -89,38 +92,38 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 - [Symbolic Knowledge Distillation: from General Language Models to Commonsense Models](https://arxiv.org/abs/2110.07178) *Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi.* NAACL 2022.
 - [Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor](https://arxiv.org/abs/2212.09689)  *Or Honovich, Thomas Scialom, Omer Levy, Timo Schick.* ACL 2023.
 #### B. Rephrasing Output
-- [Rephrasing theWeb A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380) *Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly.* ACL 2024.
+- [Rephrasing theWeb A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/abs/2401.16380) *Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly.* ACL 2024.🔥
 - [Nemotron-CC: Transforming Common Crawl into a Refined Long-Horizon Pretraining Dataset](https://arxiv.org/abs/2412.02595) *Dan Su, Kezhi Kong, Ying Lin, Joseph Jennings, Brandon Norick, Markus Kliegl, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro*, Arxiv 2024
 - [ToEdit: How to Synthesize Text Data to Avoid Model Collapse?](https://openreview.net/forum?id=mVCcWCjeEz) ICML 2025.
 - Synthesis instruction from human-written corpus
-- [LongForm: Effective Instruction Tuning with Reverse Instructions.](https://arxiv.org/abs/2304.08460) *Abdullatif Köksal, Timo Schick, Anna Korhonen, Hinrich Schütze.* EMNLP 2024 findings.
+- [LongForm: Effective Instruction Tuning with Reverse Instructions.](https://arxiv.org/abs/2304.08460) *Abdullatif Köksal, Timo Schick, Anna Korhonen, Hinrich Schütze.* EMNLP 2024 findings.🔥
 - [Self-Alignment with Instruction Backtranslation.](https://arxiv.org/abs/2308.06259) *Xian Li, Ping Yu, Chunting Zhou, Timo Schick, Omer Levy, Luke Zettlemoyer, Jason Weston, Mike Lewis.* ICLR 2024 Oral
 #### C. Synthesis instructions and outputs using LLM
 - **Seed + Prompt engineering (Principle, Templates, Constraints) + Filtering strategy**
  - *Iterative generation*
-   - [Self-instruct: Aligning language models with self-generated instructions.](https://arxiv.org/abs/2212.10560) *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* ACL 2023.
-   - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.](https://arxiv.org/abs/2308.06259) *Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan.* NeurIPS 2023.
-   - [CodecLM: Aligning Language Models with Tailored Synthetic Data.](https://arxiv.org/abs/2404.05875) *Zifeng Wang, Chun-Liang Li, Vincent Perot, Long T. Le, Jin Miao, Zizhao Zhang, Chen-Yu Lee, Tomas Pfister.* NAACL Findings 2024.
+   - [Self-instruct: Aligning language models with self-generated instructions.](https://arxiv.org/abs/2212.10560) *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi.* ACL 2023.🔥
+   - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.](https://arxiv.org/abs/2308.06259) *Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan.* NeurIPS 2023.🔥
+   - [CodecLM: Aligning Language Models with Tailored Synthetic Data.](https://arxiv.org/abs/2404.05875) *Zifeng Wang, Chun-Liang Li, Vincent Perot, Long T. Le, Jin Miao, Zizhao Zhang, Chen-Yu Lee, Tomas Pfister.* NAACL Findings 2024.🔥
  - *Non-iterative generation*
-   - [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://arxiv.org/abs/2306.04140) *John Joon Young Chung, Ece Kamar, Saleema Amershi.* ACL 2023.
+   - [Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions](https://arxiv.org/abs/2306.04140) *John Joon Young Chung, Ece Kamar, Saleema Amershi.* ACL 2023.🔥
    - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/pdf/2306.15895) *Yue Yu, Yuchen Zhuang, Jieyu Zhang, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.* NeurIPS D&B 2023.
    - [Large Language Models Can Self-Improve](https://aclanthology.org/2023.emnlp-main.67/) *Jiaxin Huang, Shixiang Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* EMNLP 2023.
    - [TarGEN: Targeted Data Generation with Large Language Models](https://openreview.net/pdf?id=gpgMRWgv9Q) *Himanshu Gupta, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra.* COLM 2024.
    - [Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources](https://arxiv.org/abs/2409.08239) *Alisia Lupidi, Carlos Gemmell, Nicola Cancedda, Jane Dwivedi-Yu, Jason Weston, Jakob Foerster, Roberta Raileanu, Maria Lomeli.* Arxiv 2025.
-   - [Generating Faithful Synthetic Data with Large Language Models: A Case Study in Computational Social Science](https://arxiv.org/abs/2305.15041) *Veniamin Veselovsky, Manoel Horta Ribeiro, Akhil Arora, Martin Josifoski, Ashton Anderson, Robert West,* Arxiv 2023.
+   - [Generating Faithful Synthetic Data with Large Language Models: A Case Study in Computational Social Science](https://arxiv.org/abs/2305.15041) *Veniamin Veselovsky, Manoel Horta Ribeiro, Akhil Arora, Martin Josifoski, Ashton Anderson, Robert West,* Arxiv 2023.🔥
    - [MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation](https://arxiv.org/abs/2504.12563) *Haris Riaz, Sourav Bhabesh, Vinayak Arannil, Miguel Ballesteros, Graham Horwood.* Findings of ACL 2025
-   - [LAB: Large-Scale Alignment for ChatBots](https://arxiv.org/abs/2403.01081) *Shivchander Sudalairaj, Abhishek Bhandwaldar, Aldo Pareja, Kai Xu, David D. Cox, Akash Srivastava.* Arxiv 2024
+   - [LAB: Large-Scale Alignment for ChatBots](https://arxiv.org/abs/2403.01081) *Shivchander Sudalairaj, Abhishek Bhandwaldar, Aldo Pareja, Kai Xu, David D. Cox, Akash Srivastava.* Arxiv 2024🔥
 
 - **Self-play**
   - [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/abs/2404.10642) *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* Neurips 2024.
   - [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models.](https://arxiv.org/abs/2406.13542) Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou. Submit to ICLR 2025.
 - **Evoling (Rephrasing) instrut**
-  - [WizardLM: Empowering Large Language Models to Follow Complex Instructions.](https://arxiv.org/abs/2304.12244) *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* ICLR 2024.
+  - [WizardLM: Empowering Large Language Models to Follow Complex Instructions.](https://arxiv.org/abs/2304.12244) *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jiang.* ICLR 2024.🔥
   - [Making Large Language Models Better Data Creators](https://arxiv.org/pdf/2310.20111) *Dong-Ho Lee, Jay Pujara, Mohit Sewak, Ryen W. White, Sujay Kumar Jauhar.* EMNLP 2023.
 - **Curating Attributes Database**
-   - [Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* Arxiv 2024.
+   - [Scaling Synthetic Data Creation with 1,000,000,000 Personas.](https://arxiv.org/abs/2406.20094) *Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu.* Arxiv 2024.🔥
    - [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://arxiv.org/abs/2402.13064) *Haoran Li, Qingxiu Dong, Zhengyang Tang, Chaojun Wang, Xingxing Zhang, Haoyang Huang, Shaohan Huang, Xiaolong Huang, Zeqiang Huang, Dongdong Zhang, Yuxian Gu, Xin Cheng, Xun Wang, Si-Qing Chen, Li Dong, Wei Lu, Zhifang Sui, Benyou Wang, Wai Lam, Furu Wei.* Arxiv 2025.
-   - [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) *Nihal V. Nayak, Yiyang Nan, Avi Trost, Stephen H. Bach.* ACL Findings 2024.
+   - [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) *Nihal V. Nayak, Yiyang Nan, Avi Trost, Stephen H. Bach.* ACL Findings 2024.🔥
 - **No seed, no prompt templates**
   - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464) *Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin.* ICLR 2025.
 - **Failure-inducing exploration to guide LLM synthetic data**
@@ -206,7 +209,7 @@ Thanks to all the great contributors on GitHub! 🔥⚡🔥
 
 - [Make Your LLM Fully Utilize the Context.](https://arxiv.org/abs/2404.16811) *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou.* Arxiv 2024.
 - [From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data](https://arxiv.org/abs/2406.19292). *Zheyang Xiong, Vasilis Papageorgiou, Kangwook Lee, Dimitris Papailiopoulos*. ICLR 2025.
-- [Scaling Instruction-tuned LLMs to Million-token Contexts via Hierarchical Synthetic Data Generation](https://openreview.net/forum?id=BkwCrIsTbR) *Linda He, Jue WANG, Maurice Weber, Shang Zhu, Ben Athiwaratkun, Ce Zhang.* ICLR 2025.
+- [Scaling Instruction-tuned LLMs to Million-token Contexts via Hierarchical Synthetic Data Generation](https://openreview.net/forum?id=BkwCrIsTbR) *Linda He, Jue WANG, Maurice Weber, Shang Zhu, Ben Athiwaratkun, Ce Zhang.* ICLR 2025.🔥
 
 ### 5.6. Weak-to-Strong
 
