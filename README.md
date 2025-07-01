@@ -1,4 +1,4 @@
-# Real-time updated, Fine-grained LLM-Synthetic-Data(Updating!)
+# A Life Fine-grained LLM-Synthetic-Data(Updated to ICML 2025!)
 
 <div align="center">
 
