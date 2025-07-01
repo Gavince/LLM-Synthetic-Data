@@ -1,4 +1,4 @@
-# A Life Fine-grained LLM-Synthetic-Data(Updated to ICML 2025!)
+# Live LLM-Synthetic-Data Papers (ICML 2025 Update)
 
 <div align="center">
 
