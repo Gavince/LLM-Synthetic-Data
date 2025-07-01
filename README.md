@@ -9,9 +9,7 @@
 
 </div>
 
-This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), which focuses on **real-time, fine-grained LLM-Synthetic-Data**. 
-
-If you find this useful, feel free to follow us and star both repos. Thanks to all the great contributors on GitHub! 
+This repo, inspired by [Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data), which focuses on **real-time, fine-grained LLM-Synthetic-Data**. If you find this useful, feel free to follow us and star both repos. Thanks to all the great contributors on GitHub! 
 
 🔥 indicates an article/content that we personally highly recommend.
 
