@@ -51,6 +51,7 @@ If you find this useful, feel free to follow us and star both repos. Thanks to a
 
 ## 1. Githubs:
 
+- [https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data](https://github.com/mghiasvand1/Awesome-VLM-Synthetic-Data).🔥
 - [https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data).🔥
 
 ## **2. Blogs:**
@@ -70,6 +71,7 @@ If you find this useful, feel free to follow us and star both repos. Thanks to a
 3. [Large Language Models for Data Annotation: A Survey](https://arxiv.org/abs/2402.13446) *Zhen Tan, Dawei Li, Song Wang, Alimohammad Beigi, Bohan Jiang, Amrita Bhattacharjee, Mansooreh Karami, Jundong Li, Lu Cheng, Huan Liu.* EMNLP 2024.
 4. [Generative AI for Synthetic Data Generation: Methods, Challenges and the Future.](https://arxiv.org/abs/2403.04190) *Xu Guo, Yiqiang Chen.* Arxiv 2024.
 5. [Comprehensive Exploration of Synthetic Data Generation: A Survey.](https://arxiv.org/abs/2401.02524) *André Bauer, Simon Trapp, Michael Stenger, Robert Leppich, Samuel Kounev, Mark Leznik, Kyle Chard, Ian Foster.* Arxiv 2024.
+6. [A Survey on Bridging VLMs and Synthetic Data.](https://openreview.net/pdf?id=ThjDCZOljE) *Mohammad Ghiasvand Mohammadkhani, Saeedeh Momtazi, Hamid Beigy.* OpenReview 2025.
 
 ## **4. Methods:**
 
