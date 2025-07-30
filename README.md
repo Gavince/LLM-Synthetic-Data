@@ -248,6 +248,7 @@ If you find this useful, feel free to follow us and star both repos. Thanks to a
 
 - [Prompt Public Large Language Models to Synthesize Data for Private On-device Applications](https://arxiv.org/pdf/2404.04360). *Shanshan Wu, Zheng Xu, Yanxiang Zhang, Yuanbo Zhang, Daniel Ramage.* COLM 2024.
 - [Harnessing large-language models to generate private synthetic text](https://arxiv.org/abs/2306.01684). *Alexey Kurakin, Natalia Ponomareva, Umar Syed, Liam MacDermed, Andreas Terzis.* Arxiv 2024.
+- [GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation](https://arxiv.org/abs/2505.20416) *Zihong Chen, Wanli Jiang, Jinzhe Li, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong* Arxiv 2025.
 
 ### 5.11. Generative Design
 
