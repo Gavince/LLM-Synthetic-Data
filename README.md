@@ -477,6 +477,8 @@ Entries marked with 🔥 are those we highly recommend.
 - [CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing](https://arxiv.org/abs/2502.03997) *Yu Yuan, Shizhao Sun, Qi Liu, Jiang Bian.* ICML 2025.
 - [AnalogXpert: Automating Analog Topology Synthesis by Incorporating Circuit Design Expertise into Large Language Models](https://arxiv.org/abs/2412.19824) *Haoyi Zhang, Shizhao Sun, Yibo Lin, Runsheng Wang, Jiang Bian.* Arxiv 2024. 
  
+### 5.15. Knowledge-Intensive Data
+- [GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation](https://arxiv.org/abs/2505.20416) *Zihong Chen, Wanli Jiang, Jinzhe Li, Zhonghang Yuan, Huanjun Kong, Wanli Ouyang, Nanqing Dong* Arxiv 2025.
 
 ## **7. Tools**
 
