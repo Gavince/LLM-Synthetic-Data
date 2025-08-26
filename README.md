@@ -302,6 +302,7 @@ Entries marked with 🔥 are those we highly recommend.
 - [Unleashing LLM Reasoning Capability via Scalable Question Synthesis from Scratch](https://arxiv.org/abs/2410.18693) *Yuyang Ding, Xinyu Shi, Xiaobo Liang, Juntao Li, Zhaopeng Tu, Qiaoming Zhu, Min Zhang.* ACL 2025.
 - [Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing](https://arxiv.org/abs/2404.12253) *Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, Dong Yu.* NeurIPS 2024.
 - [Step-Opt: Boosting Optimization Modeling in LLMs through Iterative Data Synthesis and Structured Validation](https://arxiv.org/abs/2506.17637) *Yang Wu, Yifan Zhang, Yurong Wu, Yuran Wang, Junkai Zhang, Jian Cheng.* Arxiv 2025.
+- [FLAMES: Improving LLM Math Reasoning via a Fine-Grained Analysis of the Data Synthesis Pipeline](https://arxiv.org/abs/2508.16514) *Parker Seegmiller, Kartik Mehta, Soumya Saha, Chenyang Tao, Shereen Oraby, Arpit Gupta, Tagyoung Chung, Mohit Bansal, Nanyun Peng.* EMNLP 2025.
 
 
 ### **6.2 Code Generation**
